@@ -1,0 +1,14 @@
+Brinzan Darius-Ionut
+In cadrul implementarii primei teme de la Liste Dublu Inlantuite Circulare am realizat un numar total de 12 functii .
+out_of_bound : este o functie care pur si simplu imi afiseaza erorile dupa caz
+free_planet : este o functie prin care dau free la planete
+delete_planet : este o functie prin care sterg o planeta din CDLL
+add: functia add face o lista circulara inlantuita pentru scuturi dupa care face o planeta si o adauga in lista circulara care formeaza galaxia 
+black_hole : functie pentru a elimina o planeta din galaxie
+upgrade shield : functie pentru a creste valoarea unui shield a unei planete 
+expand shield : functie pentru a mai adauga un shield in lista de shield-uri ale planetelor
+remove_shield : elimina un shield din lista de shield-uri
+collide : functia de coliziune a 2 planete pentru care am facut pentru fiecare caz posibil
+rotate : functie pentru a roti atat in sens trigonometric cat si in sensul acelor de ceasornic
+show_info : functie pentru a arata informatii despre planete
+execute : functie pentru a rula programul realizat
